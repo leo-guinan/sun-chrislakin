@@ -1,0 +1,382 @@
+{
+  "id": "sun-chrislakin",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@chrislakin Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_d298fca7ac31",
+    "display_name": "chrislakin",
+    "user_id": "@chrislakin",
+    "description": "Community Archive-derived proof-of-search sun for @chrislakin.",
+    "document_count": 8195,
+    "word_count": 128066,
+    "active_days": 804,
+    "emissions": [
+      "Think",
+      "Don",
+      "Good",
+      "Know",
+      "Nickcammarata",
+      "Yeah"
+    ],
+    "generated_at": "2026-06-27T15:42:20.319611+00:00",
+    "color": "#f59e0b",
+    "mass": 11.76
+  },
+  "planets": [
+    {
+      "id": "planet_415e45e003bc",
+      "name": "Think",
+      "summary": "Archive cluster around think: 7096 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "want",
+        "now",
+        "feel",
+        "could"
+      ],
+      "artifacts": [
+        {
+          "id": "art_090805d3aafa",
+          "title": "Think receipt from 2025-04-05",
+          "excerpt": "my favorite mindset for flirting is that it’s predetermined: either you’re already compatible with the other person, or you’re already incompatible. flirting isn’t “convincing” the other person to like you, it’s *revealing*",
+          "source_document_id": "1908605296970523100",
+          "timestamp": "2025-04-05T19:38:57+00:00",
+          "url": "https://x.com/chrislakin/status/1908605296970523100",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, want, now, feel."
+        },
+        {
+          "id": "art_23c56be284a6",
+          "title": "Think receipt from 2025-10-31",
+          "excerpt": "https://t.co/m4Tp4ZuCrb",
+          "source_document_id": "1984368156723564927",
+          "timestamp": "2025-10-31T21:13:30+00:00",
+          "url": "https://x.com/chrislakin/status/1984368156723564927",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, want, now, feel."
+        },
+        {
+          "id": "art_1de83ed29600",
+          "title": "Think receipt from 2025-11-02",
+          "excerpt": "https://t.co/twfXA9yPPN https://t.co/s4xbkURUT3",
+          "source_document_id": "1984821545420931252",
+          "timestamp": "2025-11-02T03:15:07+00:00",
+          "url": "https://x.com/chrislakin/status/1984821545420931252",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, want, now, feel."
+        },
+        {
+          "id": "art_e0c5707a711d",
+          "title": "Think receipt from 2025-10-28",
+          "excerpt": "https://t.co/TAzQjqUOzO https://t.co/gDn1xpiQgN",
+          "source_document_id": "1983210286866956391",
+          "timestamp": "2025-10-28T16:32:33+00:00",
+          "url": "https://x.com/chrislakin/status/1983210286866956391",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, want, now, feel."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_98dee130803f",
+      "proof_score": 1,
+      "mass": 34.623,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_c91e2ebbf0a8",
+      "name": "Don",
+      "summary": "Archive cluster around don: 263 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "want",
+        "need",
+        "things"
+      ],
+      "artifacts": [
+        {
+          "id": "art_4f7019c92dd1",
+          "title": "Don receipt from 2025-02-14",
+          "excerpt": "if you were serious about dating you would be doing everything you could to break up as quickly as possible. most relationships don't work out. if you're dating to marry that doesn't require 3 years to figure out. 1 year max to determine if the relationship is doomed https://t.co/3ihQJWjYjI",
+          "source_document_id": "1890494200640078175",
+          "timestamp": "2025-02-14T20:11:55+00:00",
+          "url": "https://x.com/chrislakin/status/1890494200640078175",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, need."
+        },
+        {
+          "id": "art_40a037c72ef6",
+          "title": "Don receipt from 2025-02-09",
+          "excerpt": "they don't want you to know this but the true purpose of “noble silence” during meditation retreats is to prevent the spread of memetic viruses among the mentally ill",
+          "source_document_id": "1888380981541007425",
+          "timestamp": "2025-02-09T00:14:45+00:00",
+          "url": "https://x.com/chrislakin/status/1888380981541007425",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, need."
+        },
+        {
+          "id": "art_cff0d777b197",
+          "title": "Don receipt from 2025-04-18",
+          "excerpt": "realizing a hard truth that if someone doesn’t want to put $ towards something, they actually don’t care about it, no matter what they say",
+          "source_document_id": "1913219110768722264",
+          "timestamp": "2025-04-18T13:12:36+00:00",
+          "url": "https://x.com/chrislakin/status/1913219110768722264",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, need."
+        },
+        {
+          "id": "art_467f42e498e4",
+          "title": "Don receipt from 2025-10-02",
+          "excerpt": "How to minimize the number of people who dislike you:\n\n• Stoop your posture\n• Take up less space\n• Don’t ask for things\n• Don’t take risks\n• Don’t be agentic\n• Do less stuff\n• Maintain fewer relationships",
+          "source_document_id": "1973759034516988075",
+          "timestamp": "2025-10-02T14:36:39+00:00",
+          "url": "https://x.com/chrislakin/status/1973759034516988075",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, need."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_bcc44541dc90",
+      "proof_score": 0.908,
+      "mass": 27.501,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_454c2ab3787c",
+      "name": "Good",
+      "summary": "Archive cluster around good: 219 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "really",
+        "actually",
+        "could",
+        "tweet"
+      ],
+      "artifacts": [
+        {
+          "id": "art_e50a6c9b03d3",
+          "title": "Good receipt from 2025-05-09",
+          "excerpt": "turns out if you allow yourself to be super impulsive, eventually your impulses get really good",
+          "source_document_id": "1920894213035524543",
+          "timestamp": "2025-05-09T17:30:43+00:00",
+          "url": "https://x.com/chrislakin/status/1920894213035524543",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, actually, could."
+        },
+        {
+          "id": "art_f04415cde35c",
+          "title": "Good receipt from 2025-08-18",
+          "excerpt": "Back when I was socially anxious it confused everyone and prevented a lot of good things from happening. People wanted to interact with me and I wasn’t letting them https://t.co/fgOSq5GLDf https://t.co/2qP4DBVPeX",
+          "source_document_id": "1957518562970726471",
+          "timestamp": "2025-08-18T19:02:49+00:00",
+          "url": "https://x.com/chrislakin/status/1957518562970726471",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, actually, could."
+        },
+        {
+          "id": "art_191b37a5994c",
+          "title": "Good receipt from 2025-02-19",
+          "excerpt": "ok, what are examples of the GOOD memetic viruses?\n\n1/ Sarno's chronic pain cure \n(h/t @richardludlow @patrickc)\n\nreply and i'll add yours to the thread! https://t.co/J0KCW4BVd0 https://t.co/Zar5tWP5z2",
+          "source_document_id": "1892295362741932082",
+          "timestamp": "2025-02-19T19:29:06+00:00",
+          "url": "https://x.com/chrislakin/status/1892295362741932082",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, actually, could."
+        },
+        {
+          "id": "art_38487151968c",
+          "title": "Good receipt from 2025-04-27",
+          "excerpt": "friend told me there’s usually a tradeoff between finding embodied men who are good at sex and nerdy men who are have good conversations. is this true?",
+          "source_document_id": "1916549756937011592",
+          "timestamp": "2025-04-27T17:47:24+00:00",
+          "url": "https://x.com/chrislakin/status/1916549756937011592",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, actually, could."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_27b1e2cca5c7",
+      "proof_score": 0.889,
+      "mass": 25.141,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_8569f3d37648",
+      "name": "Know",
+      "summary": "Archive cluster around know: 174 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "know",
+        "party",
+        "events",
+        "someone",
+        "let"
+      ],
+      "artifacts": [
+        {
+          "id": "art_4855469f0b22",
+          "title": "Know receipt from 2025-10-18",
+          "excerpt": "Finally figured out exactly what's creepy about pickup artists.\n\nYou know when you start dating someone and they're rushing everything? Like they're trying to speedrun the relationship?\n\nIt's that they're playing a finite game inside of what you THOUGHT was an infinite game. They… https://t.co/MqJWN3nqsH",
+          "source_document_id": "1979635790721462352",
+          "timestamp": "2025-10-18T19:48:47+00:00",
+          "url": "https://x.com/chrislakin/status/1979635790721462352",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, party, events, someone."
+        },
+        {
+          "id": "art_9389f8c3bebf",
+          "title": "Know receipt from 2025-05-12",
+          "excerpt": "freaky thing that happened to me after my suffering reduced a lot (and i forgot how much i used to suffer)— others’ suffering began to often look like pretending? like acting? look, i know they’re not, but still… https://t.co/XpQGATfFUl",
+          "source_document_id": "1921730946279121071",
+          "timestamp": "2025-05-12T00:55:36+00:00",
+          "url": "https://x.com/chrislakin/status/1921730946279121071",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, party, events, someone."
+        },
+        {
+          "id": "art_143a9b93c117",
+          "title": "Know receipt from 2025-05-28",
+          "excerpt": "the best therapists are 10x the average. the worst therapists make people worse.\n\ndo you know which you're getting? how do you tell? https://t.co/84pOOneNgn",
+          "source_document_id": "1927801202730819876",
+          "timestamp": "2025-05-28T18:56:38+00:00",
+          "url": "https://x.com/chrislakin/status/1927801202730819876",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, party, events, someone."
+        },
+        {
+          "id": "art_c1709f178498",
+          "title": "Know receipt from 2025-08-29",
+          "excerpt": "You know someone is great at conflict when their first reaction is to ask questions from genuine curiosity (not trigger). Most conflicts are mistakes, so the first step is always to ensure you’ve understood them correctly https://t.co/5VzfNxv9Q2",
+          "source_document_id": "1961509722588324021",
+          "timestamp": "2025-08-29T19:22:15+00:00",
+          "url": "https://x.com/chrislakin/status/1961509722588324021",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, party, events, someone."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_78d529e22eab",
+      "proof_score": 0.866,
+      "mass": 25.925,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_75ea583d6ccc",
+      "name": "Nickcammarata",
+      "summary": "Archive cluster around nickcammarata: 235 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "nickcammarata",
+        "nosilverv",
+        "time",
+        "markestefanos",
+        "could"
+      ],
+      "artifacts": [
+        {
+          "id": "art_d6b072e93f6c",
+          "title": "Nickcammarata receipt from 2025-04-09",
+          "excerpt": "@nickcammarata our faith was tested and we failed",
+          "source_document_id": "1910040038127415483",
+          "timestamp": "2025-04-09T18:40:06+00:00",
+          "url": "https://x.com/chrislakin/status/1910040038127415483",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nickcammarata, nosilverv, time, markestefanos."
+        },
+        {
+          "id": "art_11a9413dc9f4",
+          "title": "Nickcammarata receipt from 2025-02-24",
+          "excerpt": "@nickcammarata nick blink twice if something's wrong",
+          "source_document_id": "1894135403143467134",
+          "timestamp": "2025-02-24T21:20:46+00:00",
+          "url": "https://x.com/chrislakin/status/1894135403143467134",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nickcammarata, nosilverv, time, markestefanos."
+        },
+        {
+          "id": "art_c5864bcbe955",
+          "title": "Nickcammarata receipt from 2024-11-26",
+          "excerpt": "@nickcammarata https://t.co/bHnMNkqSZc https://t.co/imJxqjub2n",
+          "source_document_id": "1861545091841826946",
+          "timestamp": "2024-11-26T22:58:30+00:00",
+          "url": "https://x.com/chrislakin/status/1861545091841826946",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nickcammarata, nosilverv, time, markestefanos."
+        },
+        {
+          "id": "art_b461ae803e30",
+          "title": "Nickcammarata receipt from 2024-12-04",
+          "excerpt": "@nickcammarata How much like this? https://t.co/0VOeWBF7E1",
+          "source_document_id": "1864386035326808571",
+          "timestamp": "2024-12-04T19:07:24+00:00",
+          "url": "https://x.com/chrislakin/status/1864386035326808571",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nickcammarata, nosilverv, time, markestefanos."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_60d2270ccf48",
+      "proof_score": 0.896,
+      "mass": 23.496,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_e5a0ddcca581",
+      "name": "Yeah",
+      "summary": "Archive cluster around yeah: 208 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "yeah",
+        "too",
+        "lol",
+        "time",
+        "seems"
+      ],
+      "artifacts": [
+        {
+          "id": "art_e9565a8dc318",
+          "title": "Yeah receipt from 2025-07-28",
+          "excerpt": "A long time ago someone complained I was never vulnerable with her. So the next time I had a strong feeling I shared it. She hung up on me.\n\nYeah, avoidance is strategic. https://t.co/lYrfMQAEhK",
+          "source_document_id": "1949860644565463387",
+          "timestamp": "2025-07-28T15:52:58+00:00",
+          "url": "https://x.com/chrislakin/status/1949860644565463387",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, lol, time."
+        },
+        {
+          "id": "art_db41ef33b1a2",
+          "title": "Yeah receipt from 2025-08-18",
+          "excerpt": "@justalexoki Yeah social anxiety (AKA risk aversion) slows down a lot of positive interactions. You can help everyone by unlearning your insecurities! https://t.co/NMitoNv1IH",
+          "source_document_id": "1957517769647526186",
+          "timestamp": "2025-08-18T18:59:39+00:00",
+          "url": "https://x.com/chrislakin/status/1957517769647526186",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, lol, time."
+        },
+        {
+          "id": "art_0667a12db9c5",
+          "title": "Yeah receipt from 2025-07-20",
+          "excerpt": "Yeah, how is it that people can be so smart but never really apply that intelligence to their emotions? It’s certainly possible, but many never seem to do it https://t.co/dC84ORnjIq",
+          "source_document_id": "1946971699070812392",
+          "timestamp": "2025-07-20T16:33:20+00:00",
+          "url": "https://x.com/chrislakin/status/1946971699070812392",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, lol, time."
+        },
+        {
+          "id": "art_cdf7833f60ea",
+          "title": "Yeah receipt from 2025-05-09",
+          "excerpt": "@gptbrooke yeah someone qt'd lol https://t.co/IwlRILKngy",
+          "source_document_id": "1920913665257082920",
+          "timestamp": "2025-05-09T18:48:01+00:00",
+          "url": "https://x.com/chrislakin/status/1920913665257082920",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, lol, time."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_1c2154ad74ba",
+      "proof_score": 0.884,
+      "mass": 24.119,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
